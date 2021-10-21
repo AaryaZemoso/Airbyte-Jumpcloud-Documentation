@@ -5,7 +5,7 @@
 1. Click on connection in the main page.
 ![alt main-page](./main-page.png)
 
-2. Click on `+ new connection` button on top right
+2. Click on `+ new connection` button on top right<br/>
 ![alt new-connection-button](./new-connection.png)
 
 3. You'll see this page. You are currently in `Choose a Source` tab
